@@ -1,6 +1,6 @@
 # Week 2 - Resurser
 
-[Back to main page :house:](https://github.com/aleylani/statistical-methods)
+[Back to main page :house:](https://github.com/aleylani/statistical-methods-ai24)
 
 # Video
 
@@ -10,6 +10,10 @@
 - [Poissonfördelning](https://www.youtube.com/watch?v=jmqZG6roVqU)
 - [Hypergeometriska fördelningen (optional)](https://www.youtube.com/watch?v=L2KMttDm3aY&t)
 - [Geometriska fördelningen](https://www.youtube.com/watch?v=zq9Oz82iHf0)
+
+# Animation
+
+-[Possionapproximation av Binomial](https://www.geogebra.org/m/CbHm3Dys)
 
 # Teori :book:
 
